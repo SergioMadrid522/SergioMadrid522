@@ -2,12 +2,12 @@
 Hi! I'm Sergio, a web dev from Mexico who loves building cool stuff<br><br>💡 I love solving problems, learning new tools, and creating real-world projects that challenge me and help me grow as a developer.<br><br>🎯 Currently looking for a frontend internship or junior position where I can contribute, learn from experienced developers, and continue improving my skills.<br><br>📫 Feel free to reach out!
 - 🔭 I’m currently working on [e-commerce](https://github.com/SergioMadrid522/e-commerce)
 
-- 🌱 I’m currently learning **React, NodeJS Express**
+- 🌱 I’m currently learning **React, NodeJS, Express and TypeScript**
 
 - 👨‍💻 All of my projects are available at [https://sergiomadridportfolio.netlify.app/](https://sergiomadridportfolio.netlify.app/)
 
 - 📫 How to reach me **sergiofabian.madrid@hotmmail.com**
-- 
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sergio-acuña-59735336b) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sergiofabian.madrid@hotmail.com) 
 
