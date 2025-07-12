@@ -6,7 +6,7 @@ Hi! I'm Sergio, a web dev from Mexico who loves building cool stuff<br><br>💡 
 
 - 👨‍💻 All of my projects are available at [https://sergiomadridportfolio.netlify.app/](https://sergiomadridportfolio.netlify.app/)
 
-- 📫 How to reach me **sergiofabian.madrid@hotmmail.com**
+- 📫 How to reach me **sergiofabian.madrid@hotmail.com**
 
 ## 🚀 Featured Projects:
 
@@ -52,4 +52,7 @@ Hi! I'm Sergio, a web dev from Mexico who loves building cool stuff<br><br>💡 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SergioMadrid522&theme=discord_old_blurple&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ![](https://github-readme-stats.vercel.app/api?username=SergioMadrid522&theme=discord_old_blurple&hide_border=true&show_icons=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=SergioMadrid522&theme=discord_old_blurple&hide_border=true)
+
 
