@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sergio Acuña</h1>
-<h3 align="center">Hi! I'm Sergio, a web dev from Mexico who loves building cool stuff<br><br>💡 I love solving problems, learning new tools, and creating real-world projects that challenge me and help me grow as a developer.<br><br>🎯 Currently looking for a frontend internship or junior position where I can contribute, learn from experienced developers, and continue improving my skills.<br><br>📫 Feel free to reach out!</h3>
-
+Hi! I'm Sergio, a web dev from Mexico who loves building cool stuff<br><br>💡 I love solving problems, learning new tools, and creating real-world projects that challenge me and help me grow as a developer.<br><br>🎯 Currently looking for a frontend internship or junior position where I can contribute, learn from experienced developers, and continue improving my skills.<br><br>📫 Feel free to reach out!
 - 🔭 I’m currently working on [e-commerce](https://github.com/SergioMadrid522/e-commerce)
 
 - 🌱 I’m currently learning **React, NodeJS Express**
