@@ -8,6 +8,20 @@ Hi! I'm Sergio, a web dev from Mexico who loves building cool stuff<br><br>💡 
 
 - 📫 How to reach me **sergiofabian.madrid@hotmmail.com**
 
+## 🚀 Featured Projects:
+
+- [**WeConnect**](https://github.com/SergioMadrid522/weconnect)  
+  Real-time chat app using Node.js, Express, MySQL, and Socket.IO.
+
+- [**E-commerce Website**](https://github.com/SergioMadrid522/e-commerce) *(In progress)*  
+  Online store with product management, payment integration, and user authentication.
+
+- [**Fabian Gallery**](https://github.com/SergioMadrid522/fabian-gallery)  
+  Minimalist image gallery built with HTML, SCSS, and JS.
+
+➡️ [See all projects](https://sergiomadridportfolio.netlify.app/)
+
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sergio-acuña-59735336b) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sergiofabian.madrid@hotmail.com) 
 
