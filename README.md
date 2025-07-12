@@ -48,5 +48,8 @@ Hi! I'm Sergio, a web dev from Mexico who loves building cool stuff<br><br>💡 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 
-<h2>📊 GitHub Stats:</h2>
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SergioMadrid522&theme=discord_old_blurple&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+![](https://github-readme-stats.vercel.app/api?username=SergioMadrid522&theme=discord_old_blurple&hide_border=true&show_icons=true)
+
