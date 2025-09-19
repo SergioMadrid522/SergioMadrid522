@@ -17,19 +17,12 @@ Hi! I’m Sergio, a passionate web developer from Mexico who enjoys creating imp
 
 - [**WeConnect**](https://github.com/SergioMadrid522/weconnect)  
     Real-time chat app with WebSocket for instant messaging, responsive UI for mobile and desktop, API testing with Postman, and solid database design.
-
-- [**Cycling Registration Platform**](https://github.com/SergioMadrid522/evento-rodada) *(In progress)*  
-    Cycling events platform with user registration and organizer dashboard. Built with Node.js, Express, and MySQL. Responsive UI and robust backend for event and participant management.
-
-- [**Recipe Management Platform**](https://github.com/SergioMadrid522/recetario) *(In progress)*  
-    Full-stack web app with CRUD for dishes (images, categories, ingredients), responsive UI, RESTful APIs, and MySQL relational data modeling. Focus on scalability, maintainability, and clean code.
   
-- [**E-commerce Website**](https://github.com/SergioMadrid522/e-commerce) *(In progress)*  
-    Online store with product management, payment integration, and user authentication.
-
 - [**Fabian Gallery**](https://github.com/SergioMadrid522/fabian-gallery)  
     Minimalist image gallery built with HTML, SCSS, and JS.
   
+- [**Recipe Management Platform**](https://github.com/SergioMadrid522/recetario) *(In progress)*  
+    Full-stack web app with CRUD for dishes (images, categories, ingredients), responsive UI, RESTful APIs, and MySQL relational data modeling. Focus on scalability, maintainability, and clean code.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sergio-acuña-59735336b) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sergioac.madrid@hotmail.com) 
