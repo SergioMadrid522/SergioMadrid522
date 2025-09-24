@@ -5,8 +5,6 @@ Hi! I’m Sergio, a passionate web developer from Mexico who enjoys creating imp
 
 💡 I thrive on solving challenges, exploring new technologies, and building real-world applications that help me grow both personally and professionally.
 
-🎯 I’m currently seeking a frontend internship or junior developer role where I can contribute my skills, collaborate with experienced teams, and continue advancing my expertise.
-
 📫 Feel free to get in touch—I’d love to connect! Here's my email: **sergioac.madrid@hotmail.com**
 
 - 🔭 I’m currently working on:
@@ -19,7 +17,7 @@ Hi! I’m Sergio, a passionate web developer from Mexico who enjoys creating imp
     In this project, I built a real-time chat application that allows users to interact with each other instantly. I implemented WebSocket communication to enable instant messaging with NodeJS, which was crucial for a seamless user experience. I also designed a responsive user interface that works well on both mobile and desktop devices. To ensure everything was functioning correctly, I tested the API made with Express using Postman and participated in the database design and data modeling to create a solid foundation for the application
   
 - [**Fabian Gallery**](https://github.com/SergioMadrid522/fabian-gallery)  
-    Minimalist image gallery built with HTML, SCSS, and JS.
+    In this project, I built a blog that allows users to see some of pictures I have taken. It's built using React, TypeScript, and SaSS, Also designed a responsive user interface that works well on both mobile and desktop devices.
   
 - [**Recipe Management Platform**](https://github.com/SergioMadrid522/recetario) *(In progress)*  
     For this project, I am developing a full-stack web application to manage family recipes. I implement CRUD operations for dishes, including images, categories, and ingredients. I design a responsive user interface and integrate RESTful APIs, as well as model relational data using MySQL. I focus on scalability, maintainability, and following clean code best practices. 
