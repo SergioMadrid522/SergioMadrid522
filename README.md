@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sergio Acuña</h1>
 
 <p align="center">
-  A Software Engineering student from Mexico, passionate about building clean, maintainable, and impactful web applications. 
+   I am a Software Engineer with hands-on experience in full-stack web development, specializing in React, TypeScript, and 
+   Node.js. My focus is building scalable applications with clean, maintainable code, grounded in a strong foundation of 
+   algorithms and relational database design. 
   <br />
-  I specialize in full-stack development with a focus on **React, TypeScript, Node.js, and PostgreSQL**.
+  Actively seeking a 4 – 6-month full-time internship starting February 2026. 
 </p>
 
 <p align="center">
