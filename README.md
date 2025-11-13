@@ -5,11 +5,12 @@
    Node.js. My focus is building scalable applications with clean, maintainable code, grounded in a strong foundation of 
    algorithms and relational database design. 
   <br />
+  <br />
   Actively seeking a 4 – 6-month full-time internship starting February 2026. 
 </p>
 
 <p align="center">
-  🌱 I’m currently honing my skills in **Docker**, **React Native**, and advanced database design.
+  🌱 I’m currently honing my skills in <strong>Docker</strong>, and advanced database design.
   <br />
   📫 Feel free to get in touch: <strong>sergioac.madrid@hotmail.com</strong>
 </p>
