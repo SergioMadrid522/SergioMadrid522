@@ -30,34 +30,52 @@ relational database design.
 
 <table>
   <tr>
-    <td width="50%">
+    <!-- AI Legislative Assistant -->
+    <td width="33%">
       <h3 align="center">AI Legislative Assistant</h3>
-      <p>Present Engineered a production-ready AI conversational agent specialized in a legislative representative’s public  profile. Architected a type-safe frontend using React and TypeScript, ensuring a robust and maintainable codebase. Integrated the Google Gemini API within a Node.js/Express backend to process natural language queries in real time. Implemented advanced prompt engineering techniques ("System Prompts") to strictly control the AI's persona, ensuring accurate, institutional responses and mitigating hallucinations regarding legislative data.</p>
+      <p>
+        <strong>Full-stack AI agent</strong> specialized in answering public policy and legislative profile queries.
+        Built a type-safe frontend with <strong>React + TypeScript</strong> and a backend using 
+        <strong>Node.js, Express, and Google Gemini API</strong>.  
+        Designed controlled "system prompts" to ensure accurate institutional responses and reduce hallucinations.
+      </p>
       <p align="center">
-        <a href="https://ursula-chatbot.netlify.app"><strong>See project working</strong></a>
-        </p>
+        <a href="https://ursula-chatbot.netlify.app"><strong>Live Demo</strong></a> |
+        <a href="https://github.com/SergioMadrid522/legislative-ai-assistant"><strong>Code</strong></a>
+      </p>
     </td>
-    <td width="50%">
-      <h3 align="center">AI Recipe Assistant </h3>
-      <p>Developed a full-stack web application powered by Generative AI to create and manage recipes. Architected a RESTful API using Node.js and Express that integrates Large Language Models (LLMs) to generate dynamic cooking instructions based on user inputs. Modeled a relational database schema in MySQL to store structured recipe data. Built a responsive React interface ensuring seamless interaction between the AI agent and the user. The project focuses on clean code principles and handling asynchronous third-party API responses.</p>
-      <br />
+
+    <!-- AI Recipe Assistant -->
+    <td width="33%">
+      <h3 align="center">AI Recipe Assistant</h3>
+      <p>
+        Full-stack application powered by <strong>Generative AI</strong> to create, edit, and store cooking recipes.
+        Designed a <strong>REST API</strong> integrating LLM responses, modeled a relational 
+        <strong>MySQL</strong> schema, and built a responsive interface in <strong>React</strong>.
+        Focused on clean code, async handling, and scalable architecture.
+      </p>
       <p align="center">
-        <a href="https://github.com/SergioMadrid522/tu-chef-virtual"><strong>View Code (GitHub)</strong></a>
-        <a href="https://tu-chef-inteligente.netlify.app"><strong>See project working</strong></a>
-        </p>
+        <a href="https://tu-chef-inteligente.netlify.app"><strong>Live Demo</strong></a> |
+        <a href="https://github.com/SergioMadrid522/tu-chef-virtual"><strong>Code</strong></a>
+      </p>
     </td>
-    <td width="50%">
+
+    <!-- Real-time Chat App -->
+    <td width="33%">
       <h3 align="center">Real-time Chat App</h3>
-      <p>Engineered a full-stack, real-time chat application from scratch. Architected the backend using Node.js and Express.js, leveraging WebSockets (Socket.io) to create a bi-directional, low-latency communication channel for              instant messaging. Designed and modeled the PostgreSQL database schema to efficiently store user and message data. Built a responsive frontend (HTML/SASS) that ensures a consistent user experience across desktop and 
-         mobile devices. Validated all API endpoints using Postman. </p>
-      <br />
+      <p>
+        Real-time messaging platform built with <strong>Node.js, Express, and Socket.io</strong>.
+        Implemented bi-directional WebSocket communication and a relational schema with
+        <strong>PostgreSQL</strong>. Designed a responsive UI using <strong>HTML + SASS</strong> and tested endpoints with Postman.
+      </p>
       <p align="center">
-        <a href="https://github.com/SergioMadrid522/weconnect"><strong>View Code (GitHub)</strong></a>
-        <a href="https://weconnectchat.netlify.app"><strong>See project working</strong></a>
-        </p>
+        <a href="https://weconnectchat.netlify.app"><strong>Live Demo</strong></a> |
+        <a href="https://github.com/SergioMadrid522/weconnect"><strong>Code</strong></a>
+      </p>
     </td>
   </tr>
 </table>
+
 
 ---
 
