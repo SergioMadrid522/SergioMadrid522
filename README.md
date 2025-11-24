@@ -31,22 +31,29 @@ relational database design.
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">WeConnect (Real-time Chat App)</h3>
-      <p>A full-stack, real-time chat application built with <strong>Node.js, Express, and Socket.io</strong>. 
-      <br /><br />
-      Features secure <strong>user authentication</strong> (registration and login), <strong>account management</strong>, and instant messaging. I <strong>designed and modeled</strong> the complete PostgreSQL database schema (now deployed on Neon) and built the RESTful API from scratch, ensuring a solid and scalable foundation.</p>
+      <h3 align="center">AI Legislative Assistant</h3>
+      <p>Present Engineered a production-ready AI conversational agent specialized in a legislative representative’s public  profile. Architected a type-safe frontend using React and TypeScript, ensuring a robust and maintainable codebase. Integrated the Google Gemini API within a Node.js/Express backend to process natural language queries in real time. Implemented advanced prompt engineering techniques ("System Prompts") to strictly control the AI's persona, ensuring accurate, institutional responses and mitigating hallucinations regarding legislative data.</p>
       <p align="center">
-        <a href="https://github.com/SergioMadrid522/weconnect"><strong>View Code (GitHub)</strong></a>
+        <a href="https://ursula-chatbot.netlify.app"><strong>See project working</strong></a>
         </p>
     </td>
     <td width="50%">
-      <h3 align="center">Fabian Gallery (Photography Blog)</h3>
-      <p>A responsive photography portfolio and blog built with <strong>React, TypeScript, and SASS</strong>. 
-      <br /><br />
-      This project demonstrates a clean, component-based React architecture using TypeScript for type safety. It's designed to efficiently load and display high-resolution images in a user-friendly, responsive interface that works perfectly on mobile and desktop.</p>
+      <h3 align="center">AI Recipe Assistant </h3>
+      <p>Developed a full-stack web application powered by Generative AI to create and manage recipes. Architected a RESTful API using Node.js and Express that integrates Large Language Models (LLMs) to generate dynamic cooking instructions based on user inputs. Modeled a relational database schema in MySQL to store structured recipe data. Built a responsive React interface ensuring seamless interaction between the AI agent and the user. The project focuses on clean code principles and handling asynchronous third-party API responses.</p>
       <br />
       <p align="center">
-        <a href="https://github.com/SergioMadrid522/fabian-gallery"><strong>View Code (GitHub)</strong></a>
+        <a href="https://github.com/SergioMadrid522/tu-chef-virtual"><strong>View Code (GitHub)</strong></a>
+        <a href="https://tu-chef-inteligente.netlify.app"><strong>See project working</strong></a>
+        </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">Real-time Chat App</h3>
+      <p>Engineered a full-stack, real-time chat application from scratch. Architected the backend using Node.js and Express.js, leveraging WebSockets (Socket.io) to create a bi-directional, low-latency communication channel for              instant messaging. Designed and modeled the PostgreSQL database schema to efficiently store user and message data. Built a responsive frontend (HTML/SASS) that ensures a consistent user experience across desktop and 
+         mobile devices. Validated all API endpoints using Postman. </p>
+      <br />
+      <p align="center">
+        <a href="https://github.com/SergioMadrid522/weconnect"><strong>View Code (GitHub)</strong></a>
+        <a href="https://weconnectchat.netlify.app"><strong>See project working</strong></a>
         </p>
     </td>
   </tr>
