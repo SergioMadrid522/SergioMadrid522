@@ -30,7 +30,6 @@ relational database design.
 
 <table>
   <tr>
-    <!-- AI Legislative Assistant -->
     <td width="33%">
       <h3 align="center">AI Legislative Assistant</h3>
       <p>
@@ -44,8 +43,6 @@ relational database design.
         <a href="https://github.com/SergioMadrid522/legislative-ai-assistant"><strong>Code</strong></a>
       </p>
     </td>
-
-    <!-- AI Recipe Assistant -->
     <td width="33%">
       <h3 align="center">AI Recipe Assistant</h3>
       <p>
@@ -59,8 +56,6 @@ relational database design.
         <a href="https://github.com/SergioMadrid522/tu-chef-virtual"><strong>Code</strong></a>
       </p>
     </td>
-
-    <!-- Real-time Chat App -->
     <td width="33%">
       <h3 align="center">Real-time Chat App</h3>
       <p>
@@ -76,27 +71,22 @@ relational database design.
   </tr>
 </table>
 
-
 ---
 
 ## 💻 Tech Stack
 
-**Languages:** 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+**Languages:** ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white)
 
-**Libraries and Frameworks:** 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+**Libraries and Frameworks:** ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
 
-**Databases:** 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+**Databases:** ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**Tools:** 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+**Tools:** ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
