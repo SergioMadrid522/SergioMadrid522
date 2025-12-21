@@ -44,16 +44,16 @@ relational database design.
       </p>
     </td>
     <td width="33%">
-      <h3 align="center">AI Recipe Assistant</h3>
+      <h3 align="center">Family Cookbook</h3>
       <p>
-        Full-stack application powered by <strong>Generative AI</strong> to create, edit, and store cooking recipes.
-        Designed a <strong>REST API</strong> integrating LLM responses, modeled a relational 
-        <strong>MySQL</strong> schema, and built a responsive interface in <strong>React</strong>.
-        Focused on clean code, async handling, and scalable architecture.
+        Developed a full-stack web application to manage recipes and categories with complete CRUD functionality. 
+        Architected a RESTful API using Node.js and Express, and modeled a relational database in PostgreSQL for 
+        structured data storage. Built a responsive interface in React and TypeScript, focusing on clean code principles 
+        and efficient state management. 
       </p>
       <p align="center">
-        <a href="https://tu-chef-inteligente.netlify.app"><strong>Live Demo</strong></a> |
-        <a href="https://github.com/SergioMadrid522/tu-chef-virtual"><strong>Code</strong></a>
+        <a href="https://recetariodemo.netlify.app"><strong>Live Demo</strong></a> |
+        <a href="https://github.com/SergioMadrid522/recetarioDemo"><strong>Code</strong></a>
       </p>
     </td>
     <td width="33%">
