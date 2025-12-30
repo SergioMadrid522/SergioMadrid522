@@ -10,12 +10,15 @@ relational database design.
 </p>
 
 <p align="center">
-  🌱 I’m currently honing my skills in <strong>Docker</strong>, and advanced database design.
+  🌱 I’m currently honing my skills in <strong>Docker</strong>, <strong>Big Data Engineering</strong> and advanced database design.
   <br />
   📫 Feel free to get in touch: <strong>sergioac.madrid@hotmail.com</strong>
 </p>
 
 <p align="center">
+  <a href="https://fabianmadrid.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%2320232a.svg?style=for-the-badge&logo=none&logoColor=white" alt="Portfolio">
+  </a>
   <a href="https://linkedin.com/in/sergio-acuña-59735336b" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
@@ -31,41 +34,33 @@ relational database design.
 <table>
   <tr>
     <td width="33%">
-      <h3 align="center">AI Legislative Assistant</h3>
+      <h3 align="center">AI Legislative Assistant (Freelance)</h3>
       <p>
-        <strong>Full-stack AI agent</strong> specialized in answering public policy and legislative profile queries.
-        Built a type-safe frontend with <strong>React + TypeScript</strong> and a backend using 
-        <strong>Node.js, Express, and Google Gemini API</strong>.  
-        Designed controlled "system prompts" to ensure accurate institutional responses and reduce hallucinations.
+        <strong>Production-ready AI agent</strong> built for a public sector client. Specialized in answering policy queries using a type-safe <strong>React + TypeScript</strong> frontend and a <strong>Node.js/Express</strong> backend integrating <strong>Google Gemini API</strong>. Designed system prompts to ensure institutional accuracy.
       </p>
       <p align="center">
-        <a href="https://ursula-chatbot.netlify.app"><strong>Live Demo</strong></a> |
-        <a href="https://github.com/SergioMadrid522/legislative-ai-assistant"><strong>Code</strong></a>
+        <a href="https://ursula-chatbot.netlify.app"><strong>Live Demo</strong></a> <!-- |
+        <a href="https://github.com/SergioMadrid522/legislative-ai-assistant"><strong>Code</strong></a> -->
       </p>
     </td>
     <td width="33%">
-      <h3 align="center">Family Cookbook</h3>
+      <h3 align="center">US Traffic Risk AI Engine</h3>
       <p>
-        Developed a full-stack web application to manage recipes and categories with complete CRUD functionality. 
-        Architected a RESTful API using Node.js and Express, and modeled a relational database in PostgreSQL for 
-        structured data storage. Built a responsive interface in React and TypeScript, focusing on clean code principles 
-        and efficient state management. 
+        <strong>Big Data & ML Engineering project</strong>. Analyzed <strong>7M+ accident records</strong> to build a predictive risk model. Engineered an ETL pipeline using <strong>Pandas/NumPy</strong> and trained a <strong>Random Forest Classifier</strong> achieving 74% accuracy on test data.
       </p>
       <p align="center">
-        <a href="https://recetariodemo.netlify.app"><strong>Live Demo</strong></a> |
-        <a href="https://github.com/SergioMadrid522/recetarioDemo"><strong>Code</strong></a>
+        <a href="https://github.com/SergioMadrid522/us-accidents-analysis-ml"><strong>View Analysis</strong></a> <!-- |
+        <a href="https://github.com/SergioMadrid522/us-accidents-ml-analysis-ml"><strong>Code</strong></a> -->
       </p>
     </td>
     <td width="33%">
-      <h3 align="center">Real-time Chat App</h3>
+      <h3 align="center">4urskinn E-commerce</h3>
       <p>
-        Real-time messaging platform built with <strong>Node.js, Express, and Socket.io</strong>.
-        Implemented bi-directional WebSocket communication and a relational schema with
-        <strong>PostgreSQL</strong>. Designed a responsive UI using <strong>HTML + SASS</strong> and tested endpoints with Postman.
+        High-fidelity <strong>React SPA</strong> featuring a modular <strong>Feature-First Architecture</strong>. Implemented advanced UI interactions, optimized performance with <strong>Vite</strong>, and built a scalable component system based on atomic composition principles.
       </p>
       <p align="center">
-        <a href="https://weconnectchat.netlify.app"><strong>Live Demo</strong></a> |
-        <a href="https://github.com/SergioMadrid522/weconnect"><strong>Code</strong></a>
+        <a href="TU_LINK_DE_VERCEL_AQUI"><strong>Live Demo</strong></a> <!-- |
+        <a href="https://github.com/SergioMadrid522/4urskinn"><strong>Code</strong></a> -->
       </p>
     </td>
   </tr>
@@ -77,27 +72,23 @@ relational database design.
 
 **Languages:** ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white)
 
+**Data Science & ML:** ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
 **Libraries and Frameworks:** ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 **Databases:** ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 **Tools:** ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SergioMadrid522&theme=discord_old_blurple&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
-  <img src="https://github-readme-stats.vercel.app/api?username=SergioMadrid522&theme=discord_old_blurple&hide_border=true&show_icons=true" alt="GitHub Stats">
-</p>
