@@ -6,7 +6,7 @@ Junior Full-Stack Engineer specializing in React, Node.js, and TypeScript. QA ba
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
 **Languages:** <br />
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -35,6 +35,8 @@ Junior Full-Stack Engineer specializing in React, Node.js, and TypeScript. QA ba
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+## Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SergioMadrid522&theme=default&show_icons=true&hide_border=true&layout=compact)
 
