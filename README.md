@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sergio Acuña</h1>
 
 <p align="center">
-I am a Full-Stack Developer with hands-on experience in web development, specializing in React, TypeScript, and Node.js. 
-My focus is building scalable applications with clean, maintainable code, grounded in a strong foundation of algorithms and 
-relational database design. 
+Junior Full-Stack Engineer specializing in React, Node.js, and TypeScript. QA background with hands-on Playwright experience. Open to remote opportunities.
 </p>
 
 ---
@@ -38,13 +36,16 @@ relational database design.
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SergioMadrid522&theme=default&show_icons=true&hide_border=true&layout=compact)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SergioMadrid522&theme=default&show_icons=true&hide_border=true&count_private=true)
+
 ---
 
 <p align="center">
   I’m currently learning: <br />
-   <strong>React Native</strong>
+   <strong>Github Actions</strong>
   | <strong>PHP</strong>
-  | <strong>Docker</strong>.
   <br />
   <br />
   Feel free to get in touch: <br />
@@ -64,38 +65,3 @@ relational database design.
   </a>
 </p>
 
----
-
-## 🚀 Featured Projects
-
-### 🏛️ AI Legislative Assistant (Freelance)
-> **Production-ready AI agent built for a public sector client.**
-
-Specialized in answering policy queries using a type-safe **React + TypeScript** frontend and a **Node.js/Express** backend integrating **Google Gemini API**. Designed system prompts to ensure institutional accuracy and prevent hallucinations.
-
-🔗 [**Live Demo**](https://ursula-chatbot.netlify.app)
-
-<img width="1745" height="961" alt="ursula" src="https://github.com/user-attachments/assets/8974ba53-ac75-405f-991a-1ac80649f916" />
-
-<br />
-
-### 📸 Silent Beauty (High-Performance PWA)
-> **Progressive web app designed for visual storytelling.**
-
-Achieved a perfect **100/100 Lighthouse score** across Performance and SEO. Architected a masonry layout with **Next.js** & **Tailwind CSS**, utilizing modern viewport units (`svh`) to resolve complex layout conflicts on iOS devices.
-
-🔗 [**Live Demo**](https://fabian-photography.vercel.app)
-
-<img width="1856" height="1031" alt="silent-beauty" src="https://github.com/user-attachments/assets/8ef06b50-780d-4080-b573-6c1fb5445df9" />
-
-
-<br />
-
-### 💬 WeConnect (Real-time Chat App)
-> **Full-stack messaging platform engineered for low latency.**
-
-Built with **Node.js** and **Socket.io** for bi-directional communication, featuring a robust **PostgreSQL** database schema for secure message persistence and user authentication.
-
-🔗 [**View Code**](https://weconnectchat.netlify.app)
-
-<img width="1726" height="916" alt="weconnect" src="https://github.com/user-attachments/assets/3536383f-3507-482b-b5a7-c577d67951a4" />
