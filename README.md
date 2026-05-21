@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sergio Acuña</h1>
 
 <p align="center">
-Junior Full-Stack Engineer specializing in React, Node.js, and TypeScript. QA background with hands-on Playwright experience. Open to remote opportunities.
+Software Engineer specializing in React, Node.js, and TypeScript. QA background with hands-on Playwright experience. Open to remote opportunities.
 </p>
 
 ---
