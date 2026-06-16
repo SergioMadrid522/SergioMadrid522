@@ -33,7 +33,7 @@ Machine Learning platform built on over **7 million historical traffic records**
 **Highlights**
 
 * Python, Pandas, Scikit-Learn
-* 74.14% predictive accuracy
+* 83.61% predictive accuracy
 * FastAPI microservice architecture
 * Node.js + TypeScript BFF
 * Interactive Leaflet geospatial visualization
