@@ -20,10 +20,10 @@
 
 ## Featured Projects
 
-### Self-Hosted Private Cloud & NAS Platform
-A self-hosted cloud storage platform I'm building as an alternative to services like OneDrive and iCloud, mainly because I wanted to understand what actually goes into building one from scratch.
+### Self-Hosted Private NAS Platform
+A self-hosted NAS storage platform I'm building as an alternative to services like OneDrive and iCloud, mainly because I wanted to understand what actually goes into building one from scratch.
 
-**Stack:** NestJS · Next.js · Prisma ORM · PostgreSQL · Debian 13 Linux · Node.js.
+**Stack:** NestJS · Next.js · Node.js · Prisma ORM · PostgreSQL · Debian 13 Linux.
 
 **What I'm working on:**
 * Building a REST API with NestJS to manage users, folders, files, and storage operations.
@@ -58,6 +58,7 @@ A self-hosted cloud storage platform I'm building as an alternative to services 
 <p>A full-stack bug tracking and software quality management platform I originally built as my university residency project.</p>
 
 **Stack:** Next.js · TypeScript · PostgreSQL · Prisma · Playwright · Recharts
+
 **What I built:**
 * Implemented authentication and Role-Based Access Control (RBAC) for Administrator, Developer, and Tester workflows.
 * Built ticket management with priorities, modules, statuses, assignments, and complete status history.
