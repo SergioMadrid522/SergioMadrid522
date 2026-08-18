@@ -20,20 +20,27 @@
 
 ## Featured Projects
 
-### Self-Hosted Private NAS Platform
-A self-hosted NAS storage platform I'm building as an alternative to services like OneDrive and iCloud, mainly because I wanted to understand what actually goes into building one from scratch.
+### Self-Hosted Private Cloud Storage
 
-**Stack:** NestJS · Next.js · Node.js · Prisma ORM · PostgreSQL · Debian 13 Linux.
+A self-hosted private cloud storage platform I'm building from scratch as an alternative to services like OneDrive and iCloud. The project is focused on understanding and implementing the architecture behind a cloud storage system, from file management and physical storage to server administration and automated backups.
 
-**What I'm working on:**
-* Building a REST API with NestJS to manage users, folders, files, and storage operations.
-* Separating the logical filesystem stored in PostgreSQL from the actual files stored on disk.
-* Using generated UUIDs as physical filenames to avoid collisions while keeping the original filenames as metadata.
-* Using Node.js Streams for file uploads and downloads instead of loading entire files into memory.
-* Running the application on my own Debian 13 home server, which I manage remotely through SSH.
-* Designing the project around limited hardware resources, so memory usage and storage efficiency actually matter.
+**Stack:** NestJS · Next.js · TypeScript · Node.js · Prisma ORM · PostgreSQL · Debian 13 · Bash · Python
 
-<p>The long-term goal is to turn it into a small private cloud that my family and I can use for storing and accessing files locally. Eventually, I plan to build a dedicated home server and deploy the entire platform there.</p>
+**What I'm building:**
+* Building a REST API with NestJS for authentication, users, folders, files, uploads, downloads, and storage operations.
+* Separating the logical filesystem stored in PostgreSQL from the physical filesystem stored on a dedicated HDD.
+* Using UUID-based storage identifiers (`storageName`) for physical files while preserving user-facing filenames and folder structures as database metadata.
+* Implementing hierarchical folder management using PostgreSQL relationships and recursive queries.
+* Using Node.js Streams for file uploads and downloads to avoid loading entire files into memory.
+* Supporting single-file and folder downloads, including ZIP generation for directory downloads.
+* Building a Bash-based Management CLI accessed through SSH for monitoring system resources, storage, logs, services, backups, and maintenance tasks.
+* Developing an independent Python/Bash backup automation system scheduled through `cron`, including backup creation, verification, and retention.
+* Designing the system around limited hardware resources, making storage efficiency, memory usage, and server reliability important architectural considerations.
+
+**Current status:**
+Authentication is complete, and the folder management system is nearly finished. File management, the frontend UI, responsive design, backup automation, and deployment are currently in development.
+
+<p>The long-term goal is to turn the project into a fully functional private cloud that my family and I can use to store and access files through a web interface, while maintaining complete control over the infrastructure and data. The platform is designed to eventually support both local-network access and secure public access.</p>
 
 ---
 
